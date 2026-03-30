@@ -8,7 +8,7 @@ The lab utilizes a **Star Topology** consisting of:
 * **Intermediary Device:** 1 Cisco 2960-24TT Layer 2 Switch.
 * **Cabling:** Copper Straight-Through Ethernet cables.
 
-![Network Topology](./image_b2bfe6.png)
+![Network Topology](./pck1.png)
 
 ## 🛠️ Technical Implementation
 1.  **Physical Scaling:** Established physical links for 8 separate nodes to a 24-port switch, ensuring all ports achieved a "Forwarding" (Green) state.
